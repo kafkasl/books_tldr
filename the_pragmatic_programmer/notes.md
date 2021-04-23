@@ -2,6 +2,18 @@
 
 ## Basic tools
 
+### Save your machine state into VCS
+
+Store in a repo everything that defines the configuration and usage of your machine including:
+
+* All the user preferences and dotfiles
+* The editor configuration
+* The list of software installed using Homebrew or similars
+* The Ansible script used to configure apps
+* All current projects
+
+The goal is to be able to restore your computer setup from scratch in at most a day.
+
 ### Achieving master with your text editor
 
 What fluency looks like when editing text:
