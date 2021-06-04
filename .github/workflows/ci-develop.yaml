@@ -1,4 +1,4 @@
-name: Build and deploy the UI to develop
+name: Test placeholder
 on:
   push:
     branches:
