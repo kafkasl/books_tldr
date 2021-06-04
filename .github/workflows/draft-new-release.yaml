@@ -25,10 +25,6 @@ jobs:
         name: Create release branch
         run: git checkout -b release/${{ github.event.inputs.version }}
 
-      - id: initialize-git-info
-        name: Initialize mandatory git info
-        run: git config user.name "Github Actions"
-
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
