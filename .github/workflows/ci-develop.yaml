@@ -12,7 +12,7 @@ jobs:
     name: Build 
     runs-on: ubuntu-20.04
     if: |-
-      !github.event.pull_request = true || 
+      !github.event.pull_request == true || 
       startsWith(github.event.pull_request.head.ref, 'release/') ||
       startsWith(github.event.pull_request.head.ref, 'hotfix/') # build for release / hotfix PRs or push events
     env:
