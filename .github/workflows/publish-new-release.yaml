@@ -10,8 +10,11 @@ on:
 jobs:
   release:
     name: Publish new release
-    runs-on: ubuntu-latest
-    if: github.event.pull_request.merged == true # only merged pull requests must trigger this job
+    runs-on: ubuntu-20.04
+    # only trigger on merged pull requests named release/* or hotfix/*
+    if: |
+        github.event.pull_request.merged == true &&
+        (startsWith(github.event.pull_request.head.ref, 'release/') || startsWith(github.event.pull_request.head.ref, 'hotfix/'))
     steps:
       - name: Extract version from branch name (for release branches)
         if: startsWith(github.event.pull_request.head.ref, 'release/')
@@ -46,11 +49,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           head: master
-          base: dev
-          title: Merge master into dev branch
+          base: develop
+          title: Merge master into develop branch after release ${{ env.RELEASE_VERSION }}
           body: |
-            This PR merges the master branch back into dev.
-            This happens to ensure that the updates that happend on the release branch, i.e. CHANGELOG and manifest updates are also present on the dev branch.
-
-      # if needed, you can checkout the latest master here, build artifacts and publish / deploy them somewhere
-      # the create-release action has an output `upload_url` output that you can use to upload assets
+            This PR merges the master branch back into develop.
