@@ -31,10 +31,6 @@ jobs:
           VERSION=${BRANCH_NAME#hotfix/}
 
           echo "RELEASE_VERSION=$VERSION" >> $GITHUB_ENV
-
-      - id: initialize-git-info
-        name: Initialize mandatory git info
-        run: git config user.name "Github Actions"
         
       - name: Create Release
         uses: thomaseizinger/create-release@1.0.0
