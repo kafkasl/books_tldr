@@ -14,7 +14,7 @@ jobs:
     if: |-
       !github.event.pull_request == true || 
       startsWith(github.event.pull_request.head.ref, 'release/') ||
-      startsWith(github.event.pull_request.head.ref, 'hotfix/') # build for release / hotfix PRs or push events
+      startsWith(github.event.pull_request.head.ref, 'hotfix/') 
     env:
       CI: "true"
     steps:
