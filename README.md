@@ -9,4 +9,3 @@ Current selection:
 * The pragmatic programmer (RIP)
 * Keep Sharp (RIP)
 * La felicidad desesperadamente
-
