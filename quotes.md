@@ -1,0 +1,6 @@
+# Quotes
+
+Quotes I've enjoyed with no particular order or relation
+
+
+"How long ago was it? A decade? Fifteen years? Time was one of those bedrocks of civilisation that didn't have anything sensible to say once you interrogated it. Time was like money, a convenient, mutually agreed fiction. It wasn't real, not in the way people thought. It was a human construct. A collective delusion." - The Lost and the Damned, Guy Haley
