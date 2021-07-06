@@ -3,10 +3,12 @@
 
 A personal selection of what I enjoyed the most or things I want to remember about books I've read (and mostly a good excuse to practice speed typing). If you are unsure as to whether you'll like a given book, have a look at its tl;dr to get a feeling of the book before reading it. Or just get an interesting subset (for me) of its contents.
 
-Also, RIP means Read In Progress in this situation. Not Rest In Peace or Requiescat In Pace (latin version).
+Also, RIP means Read In Progress in this situation. Not Rest In Peace or Requiescat In Pace (latin version). WIP just means I haven't written down all my notes yet.
 
 Current selection:
-* The pragmatic programmer (RIP)
-* Keep Sharp (RIP)
+* The pragmatic programmer (WIP)
+* Keep Sharp (WIP)
 * La felicidad desesperadamente
 * How to be an epicurean
+* The Lean Startup
+* The Mythical Man-Month (RIP)

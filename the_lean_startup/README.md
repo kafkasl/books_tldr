@@ -58,34 +58,34 @@ Learning milestones are useful for entrepreneurs as a way of assessing their pro
 
 ### Types of pivots
 
-**Zoom-in Pivot**,
+* **Zoom-in Pivot**,
 single feature becomes the whole product
 
-**Zoom-out Pivot**, 
+* **Zoom-out Pivot**, 
 single feature is insufficient, it becomes part of larger product
 
-**Customer Segment Pivot**,
+* **Customer Segment Pivot**,
 company is solving the right problem but offering it to the wrong people. Product hypothesis partially confirmed, there’s a problem worth solving
 
-**Customer Need Pivot**,
+* **Customer Need Pivot**,
  the problem we try to solve is not important, but fine-tuning the engine we find another problem. Product hypothesis partially confirmed, the customers have a problem worth solving
 
-**Platform Pivot**,
+* **Platform Pivot**,
 change from offering a single application to offering a platform (as vehicle for third parties to create their own products)
 
-**Business Architecture Pivot**,
+* **Business Architecture Pivot**,
 change from high-margin / low-volume model (**complex systems model**, generally B2B) to low-margin / high-volume (**volume operations model**, generally consumer products) or viceversa.
 
-**Value Capture Pivot**,
+* **Value Capture Pivot**,
 change how to monetize the product
 
-**Engine of Growth Pivot**,
+* **Engine of Growth Pivot**,
 change the engine of growth
 
-**Channel Pivot**,
+* **Channel Pivot**,
 change the way the product is delivered to customers
 
-**Technology Pivot**,
+* **Technology Pivot**,
 offer the same solution with completely different technology to get superior price and/or performance.
 
 ### Metrics: the value of the three A's
