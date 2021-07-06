@@ -22,8 +22,9 @@ Author: Eric Ries
 
 Use the **scientific method**, decide a hypothesis and set out to test with a MVP it with users. 
 
-E.g. Hypothesis: People wants to buy shoes online
-Test: sell shoes online but doing all the handling manually as MVP (no resources needed almost).
+E.g.:
+* Hypothesis: People wants to buy shoes online
+* Test: sell shoes online but doing all the handling manually as MVP (no resources needed almost).
 
 ### Mandatory hypotheses to test
 * The **value hypothesis** tests whether a product or service really delivers value to customers once they are using it. 
