@@ -1,6 +1,6 @@
 # How to be an epicurean
 
-Catherine Wilson
+Author: Catherine Wilson
 
 ## Back to basics
 
@@ -94,7 +94,7 @@ p235
 We need to be aware of how deeply fear and gratitude are impressed into our psychology and to recognise our dependency on others, while refusing to infer from our experiences that they arise from a supernatural source. All our misfortunes and all our benefits flow from the nature of things. We are assuredly watched and judged by other people and by our own consciences, but not by morally concerned beings who exist outside the ordinary world.
 
 [Is there any point, though, to engaging in religious practices such as praying, singing hymns, reading holy texts, celebrating religious holidays or observing religious restrictions on diet and behaviour? Is there any point to or justification for these activities if you believe the books on which they are based to be human inventions and the divinities to which they refer to be fictitious?
-This question can be answered from two perspectives: with regard to personal pains and pleasures, and with regard to morality. 
+This question can be answered from two perspectives: with regard to personal pains and pleasures, and with regard to morality.
 
 If you enjoy them, there can be no reason not to participate in them except moral reasons:
 Moral considerations may move you to join a church or to leave one.
@@ -109,7 +109,7 @@ When, like Lucretius in Book VI, you are feeling especially pessimistic about th
 
 ## Closing
 
-Epicurean philosophy might be said to be based on the notion of the limit. First, there are natural limits to the lives of animals, people and material objects, to governments and to relationships. We preserve those we value as best we can from an untimely end. Second, there are moral limits that we ought to observe and often fail to: limits on consumption, and on the domination and exploitation of other people and animals. By reconciling ourselves to natural limits and by taking moral limits seriously, we can spare ourselves - and future generations - fear, anxiety and suffering. At the same time, within these natural and moral limits, we can find ample, and often novel and unexpected, enjoyments in the material world and in the companionship of other people. 
+Epicurean philosophy might be said to be based on the notion of the limit. First, there are natural limits to the lives of animals, people and material objects, to governments and to relationships. We preserve those we value as best we can from an untimely end. Second, there are moral limits that we ought to observe and often fail to: limits on consumption, and on the domination and exploitation of other people and animals. By reconciling ourselves to natural limits and by taking moral limits seriously, we can spare ourselves - and future generations - fear, anxiety and suffering. At the same time, within these natural and moral limits, we can find ample, and often novel and unexpected, enjoyments in the material world and in the companionship of other people.
 The inscription at the entrance of Epicuru’s Garden reportedly read: ‘Stranger, here you will do well to tarry; here our highest good is pleasure.’ Defending the authentic Epicurus against those who tried to use him ‘as a screen for their own vices’, the Stoic Seneca advised a young friend as follows: ‘Go to the Garden. The caretaker, a kindly host, will be ready for you; he will welcome you with barley-meal and serve you water also in abundance, with these : “Have you not been well entertained?” “this garde,” he says, “does not whet your appetite: it quenches it.”’
 A book can do no more than whet your appetite. But I hope you will tak up the invitation to give Epciureanims a try.
 
