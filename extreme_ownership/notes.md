@@ -64,8 +64,41 @@ Leaders should never be satisfied. They must always strive to improve, and they 
 
 **Tortured genius**: is a person who accepts zero responsibility for mistakes, makes excuses, and blames everyone else for their failings (and those of their team). In ther mind, the rest of the world just can't see or appreciate the genius in what they are doing. An individual with a Tortured Genius mind-set can have catastrophic impact on a team's performance.
 
-### Believe
+### Believe 
+
+You need to believe in the mission to be effective. Jocko was ordered to include iraqi soldiers in his missions. He was reluctant because they were less trained and skilled and probably would be a liability in missions. When he questioned **why** he had to been ordered to include them, he realized that the overarching goal was to help train them so they could one day defend the country themselves allowing his SEALs and US forces to leave.
+
+#### Principle
+A leader must be a *true believer* in the mission.
+
+If he does not believe, he will not take the risks required to overcome the inevitable challenges required to win, nor be able to convince others to do so.
+
+Leaders must always operate with the understanding that they are part of something greater than themselves and their own personal interests.
+
+When leaders receive an order that they question and do not understand, they need to ask **why are we being asked to do this?** Those leaders need to step back, deconstruct the situation, analyze the strategic picture, and come to a conclusion. If they can't get a satisfactory answer they should ask up the chain of command until they understand why.
+
+Senior leaders must take the time to explain and answer questions of their junior leaders so that they too can understand why and believe.
+
+Frontline troops (aka juniors) never have as clear an understanding of the strategic picture as senior leaders might anticipate.
+
+#### Application to business
+The CEO devised a new sales compensation plan. It reduced overall compensation to sales people, specially low producers. Mid-level managers didn't understand why so they didn't belive.
+They asked *why*. The plan was to reduce costs in sales, thus reducing overhead, and allowing them to lower prices. That would allow their sales people to give better offers and get more compensation. If low performers left, it would also be good as others could pick up their share and get even better.
 ### Check the Ego
+
+#### Principle 
+Ego clouds the mind and disrupts everythign: the planning process, the ability to take good advice, and the ability to accept constructive criticisim.
+
+When personal agendas become more important than the team and the overarching mission's success, performance suffers and failure ensues.
+
+Ego can prevent a leader from conducting an honest, realistic assessment of his abilities and his team performance. 
+
+**We must never get complacent**. You can never think you are too good to fail or that your enemies are not capable, deaadly and eager to exploit your weaknesses.
+
+#### Application to Business
+Someone broke the standard procedure of approving purchases through his manager. The manager must act at is his own fault, and explain to the worker why that procedure is in place. 
+
+E.g.: you are have more experience in this field that I have, but as a manager we set up those standard procedures for a reason. It was my fault for not having explained clearly why these measures are in place and how not following them can cost a lot of money to the company. It is up to me to make sure you know the parameters we have to work within and why some decisions have to been through me. 
 
 ## Part II: Laws of Combat
 ### Cover and Move
