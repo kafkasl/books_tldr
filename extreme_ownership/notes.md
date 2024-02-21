@@ -84,16 +84,17 @@ Frontline troops (aka juniors) never have as clear an understanding of the strat
 #### Application to business
 The CEO devised a new sales compensation plan. It reduced overall compensation to sales people, specially low producers. Mid-level managers didn't understand why so they didn't belive.
 They asked *why*. The plan was to reduce costs in sales, thus reducing overhead, and allowing them to lower prices. That would allow their sales people to give better offers and get more compensation. If low performers left, it would also be good as others could pick up their share and get even better.
+
 ### Check the Ego
 
 #### Principle 
-Ego clouds the mind and disrupts everythign: the planning process, the ability to take good advice, and the ability to accept constructive criticisim.
+Ego clouds the mind and disrupts everything: the planning process, the ability to take good advice, and the ability to accept constructive criticisim.
 
 When personal agendas become more important than the team and the overarching mission's success, performance suffers and failure ensues.
 
 Ego can prevent a leader from conducting an honest, realistic assessment of his abilities and his team performance. 
 
-**We must never get complacent**. You can never think you are too good to fail or that your enemies are not capable, deaadly and eager to exploit your weaknesses.
+**We must never get complacent**. You can never think you are too good to fail or that your enemies are not capable, deadly and eager to exploit your weaknesses.
 
 #### Application to Business
 Someone broke the standard procedure of approving purchases through his manager. The manager must act at is his own fault, and explain to the worker why that procedure is in place. 
